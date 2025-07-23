@@ -47,10 +47,3 @@ This is the backend REST API for a simple e-commerce application built with **Ex
 - [ ] Update order status *(admin only)*
 
 ---
-
-## 🧪 How to Run Locally
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/toko-online-backend.git
-cd toko-online-backend
